@@ -1,2 +1,2 @@
-# studyFirst
-a simple program that makes my capicity of github more powerful
+#minesweeper
+一个简单的扫雷小游戏，用于作者熟悉GitHub的操作
